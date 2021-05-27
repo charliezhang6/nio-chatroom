@@ -1,2 +1,2 @@
-# nio_chatroom
+# nio-chatroom
 基于nio模型的多人聊天室
